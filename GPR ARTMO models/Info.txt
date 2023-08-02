@@ -1,0 +1,1 @@
+This folder contains Gaussian process models created in ARTMO and exported in MATLAB to be scalable on the GEE cloud computing platform.
