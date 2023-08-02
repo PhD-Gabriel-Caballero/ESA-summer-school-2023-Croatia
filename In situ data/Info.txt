@@ -1,0 +1,1 @@
+This folder contains the in situ data for parametric and no-parametric model training and validation. 
