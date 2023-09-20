@@ -5,5 +5,5 @@ This repository contains the source codes for Sentinel 2 and Sentinel 1 data pro
 
 Authors
 
-Gabriel Caballero
+Gabriel Caballero\
 Jochem Verrelst
