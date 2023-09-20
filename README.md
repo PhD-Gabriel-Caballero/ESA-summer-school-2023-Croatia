@@ -17,3 +17,11 @@ This repository contains four Jupyter Colab notebooks comprising the following e
 
 Gabriel Caballero  
 Jochem Verrelst
+
+## Credits and references
+
+These Colab Jupyter notebooks are open access, and the source codes are available for users to modify and apply them all over the world. Please be sure to cite our articles as a form of compensation.
+
++ [1]   Caballero, G.; Pezzola, A.; Winschel, C.; Sanchez Angonova, P.; Casella, A.; Orden, L.; Salinero-Delgado, M.; Reyes-MuÃ±oz, P.; Berger, K.; Delegido, J.; et al. Synergy of Sentinel-1 and Sentinel-2 Time Series for Cloud-Free Vegetation Water Content Mapping with Multi-Output Gaussian Processes. Remote Sens. 2023, 15, 1822. https://doi.org/10.3390/rs15071822
++ [2]   Caballero, G.; Pezzola, A.; Winschel, C.; Casella, A.; Sanchez Angonova, P.; Orden, L.; Berger, K.; Verrelst, J.; Delegido, J. Quantifying Irrigated Winter Wheat LAI in Argentina Using Multiple Sentinel-1 Incidence Angles. Remote Sens. 2022, 14, 5867. https://doi.org/10.3390/rs14225867
++ [3]   Caballero G, Pezzola A, Winschel C, Casella A, Sanchez Angonova P, Rivera-Caicedo JP, Berger K, Verrelst J, Delegido J. Seasonal Mapping of Irrigated Winter Wheat Traits in Argentina with a Hybrid Retrieval Workflow Using Sentinel-2 Imagery. Remote Sensing. 2022; 14(18):4531. https://doi.org/10.3390/rs14184531
